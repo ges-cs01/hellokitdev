@@ -1,3 +1,4 @@
+ccflags-y = -std=gnu99
 obj-m += hellokit.o
 hellokit-objs := main.o exit.o
 

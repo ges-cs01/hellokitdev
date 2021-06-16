@@ -1,3 +1,3 @@
 # hellokitdev
 
-Simple linux rootkit mod. (in development).
+Simple linux mod. (in development).

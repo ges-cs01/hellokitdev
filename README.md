@@ -1,3 +1,3 @@
 # hellokitdev
 
-Simple linux mod. (in development).
+Simple linux mod. (testing).
